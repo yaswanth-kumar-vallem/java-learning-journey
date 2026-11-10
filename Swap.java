@@ -1,4 +1,4 @@
-package student;
+package Uniflow;
 
 public class Swap {
 
@@ -11,7 +11,6 @@ public class Swap {
 		a=a-b;
 		System.out.println("a value:"+a);
 		System.out.println("b value:"+b);
-		
 
 	}
 
